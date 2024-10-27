@@ -129,8 +129,8 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Discussion | Done
+:-- | :--: | :--: | :--: | :--: | :--: 
 [Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | ✅ 
 
 ### Introduction to Computer Science
